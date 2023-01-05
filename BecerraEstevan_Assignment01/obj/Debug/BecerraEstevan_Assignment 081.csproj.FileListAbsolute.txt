@@ -1,0 +1,10 @@
+W:\CNIT 155\Assignments\BecerraEstevan_Assignment 081\bin\Debug\BecerraEstevan_Assignment 081.exe.config
+W:\CNIT 155\Assignments\BecerraEstevan_Assignment 081\bin\Debug\BecerraEstevan_Assignment 081.exe
+W:\CNIT 155\Assignments\BecerraEstevan_Assignment 081\bin\Debug\BecerraEstevan_Assignment 081.pdb
+W:\CNIT 155\Assignments\BecerraEstevan_Assignment 081\obj\Debug\BecerraEstevan_Assignment 081.csprojAssemblyReference.cache
+W:\CNIT 155\Assignments\BecerraEstevan_Assignment 081\obj\Debug\BecerraEstevan_Assignment_081.Form1.resources
+W:\CNIT 155\Assignments\BecerraEstevan_Assignment 081\obj\Debug\BecerraEstevan_Assignment_081.Properties.Resources.resources
+W:\CNIT 155\Assignments\BecerraEstevan_Assignment 081\obj\Debug\BecerraEstevan_Assignment 081.csproj.GenerateResource.cache
+W:\CNIT 155\Assignments\BecerraEstevan_Assignment 081\obj\Debug\BecerraEstevan_Assignment 081.csproj.CoreCompileInputs.cache
+W:\CNIT 155\Assignments\BecerraEstevan_Assignment 081\obj\Debug\BecerraEstevan_Assignment 081.exe
+W:\CNIT 155\Assignments\BecerraEstevan_Assignment 081\obj\Debug\BecerraEstevan_Assignment 081.pdb
