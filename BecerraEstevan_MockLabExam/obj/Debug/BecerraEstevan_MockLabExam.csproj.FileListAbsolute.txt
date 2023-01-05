@@ -1,0 +1,10 @@
+W:\CNIT 155\In Labs\BecerraEstevan_MockLabExam\bin\Debug\BecerraEstevan_MockLabExam.exe.config
+W:\CNIT 155\In Labs\BecerraEstevan_MockLabExam\bin\Debug\BecerraEstevan_MockLabExam.exe
+W:\CNIT 155\In Labs\BecerraEstevan_MockLabExam\bin\Debug\BecerraEstevan_MockLabExam.pdb
+W:\CNIT 155\In Labs\BecerraEstevan_MockLabExam\obj\Debug\BecerraEstevan_MockLabExam.csprojAssemblyReference.cache
+W:\CNIT 155\In Labs\BecerraEstevan_MockLabExam\obj\Debug\BecerraEstevan_MockLabExam.Form1.resources
+W:\CNIT 155\In Labs\BecerraEstevan_MockLabExam\obj\Debug\BecerraEstevan_MockLabExam.Properties.Resources.resources
+W:\CNIT 155\In Labs\BecerraEstevan_MockLabExam\obj\Debug\BecerraEstevan_MockLabExam.csproj.GenerateResource.cache
+W:\CNIT 155\In Labs\BecerraEstevan_MockLabExam\obj\Debug\BecerraEstevan_MockLabExam.csproj.CoreCompileInputs.cache
+W:\CNIT 155\In Labs\BecerraEstevan_MockLabExam\obj\Debug\BecerraEstevan_MockLabExam.exe
+W:\CNIT 155\In Labs\BecerraEstevan_MockLabExam\obj\Debug\BecerraEstevan_MockLabExam.pdb
